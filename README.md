@@ -3,9 +3,9 @@
 이 프로젝트는 고객 이탈을 분석합니다.
 customer churn analysis - exploration.
 
-데이터 출처: Codeit Custome Churn (DA살림)
-분석 기간: 2025 - 2026
-사용 기술: Python, SQL
-분석 목표: 이탈 고객의 특성과 이탈 요인 파악
-링크: https://github.com/choi-jiin/customer_churn__analysis.git
-지인 생일: 4월 30일
+- 데이터 출처: Codeit Custome Churn (DA살림)
+- 분석 기간: 2025 - 2026
+- 사용 기술: Python, SQL
+- 분석 목표: 이탈 고객의 특성과 이탈 요인 파악
+- 링크: https://github.com/choi-jiin/customer_churn__analysis.git
+- 지인 생일: 4월 30일
